@@ -1,0 +1,15 @@
+C:\Users\jenz.rojehag\Documents\Programering\Gambeling\Gambeling\bin\Debug\net8.0\Gambeling.exe
+C:\Users\jenz.rojehag\Documents\Programering\Gambeling\Gambeling\bin\Debug\net8.0\Gambeling.deps.json
+C:\Users\jenz.rojehag\Documents\Programering\Gambeling\Gambeling\bin\Debug\net8.0\Gambeling.runtimeconfig.json
+C:\Users\jenz.rojehag\Documents\Programering\Gambeling\Gambeling\bin\Debug\net8.0\Gambeling.dll
+C:\Users\jenz.rojehag\Documents\Programering\Gambeling\Gambeling\bin\Debug\net8.0\Gambeling.pdb
+C:\Users\jenz.rojehag\Documents\Programering\Gambeling\Gambeling\obj\Debug\net8.0\Gambeling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenz.rojehag\Documents\Programering\Gambeling\Gambeling\obj\Debug\net8.0\Gambeling.AssemblyInfoInputs.cache
+C:\Users\jenz.rojehag\Documents\Programering\Gambeling\Gambeling\obj\Debug\net8.0\Gambeling.AssemblyInfo.cs
+C:\Users\jenz.rojehag\Documents\Programering\Gambeling\Gambeling\obj\Debug\net8.0\Gambeling.csproj.CoreCompileInputs.cache
+C:\Users\jenz.rojehag\Documents\Programering\Gambeling\Gambeling\obj\Debug\net8.0\Gambeling.sourcelink.json
+C:\Users\jenz.rojehag\Documents\Programering\Gambeling\Gambeling\obj\Debug\net8.0\Gambeling.dll
+C:\Users\jenz.rojehag\Documents\Programering\Gambeling\Gambeling\obj\Debug\net8.0\refint\Gambeling.dll
+C:\Users\jenz.rojehag\Documents\Programering\Gambeling\Gambeling\obj\Debug\net8.0\Gambeling.pdb
+C:\Users\jenz.rojehag\Documents\Programering\Gambeling\Gambeling\obj\Debug\net8.0\Gambeling.genruntimeconfig.cache
+C:\Users\jenz.rojehag\Documents\Programering\Gambeling\Gambeling\obj\Debug\net8.0\ref\Gambeling.dll
